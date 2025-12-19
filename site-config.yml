@@ -1,6 +1,6 @@
 ---
-hub: "cdcepi/FluSight-forecast-hub/"
-title: "Example Hub Dashboard Website"
+hub: "sjfox/ATSF2026/"
+title: "ATSF2026 Dashboard"
 pages:
   - "about.md"
   - "data.qmd"
