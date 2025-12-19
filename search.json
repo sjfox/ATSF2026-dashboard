@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "View The Latest Forecasts\n\nThis Dashboard is build with Quarto. To learn more about Quarto websites visit https://quarto.org/docs/websites.\nAuthors can use \\(\\LaTeX\\) to write equations and even put in callouts:\n\n\n\n\n\n\nNote\n\n\n\nLook at this note!"
+  },
+  {
+    "objectID": "forecast.html",
+    "href": "forecast.html",
+    "title": "ATSF2026 Dashboard",
+    "section": "",
+    "text": "this is replaced"
+  },
+  {
+    "objectID": "eval.html",
+    "href": "eval.html",
+    "title": "ATSF2026 Dashboard",
+    "section": "",
+    "text": "this is replaced"
+  }
+]
