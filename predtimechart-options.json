@@ -208,7 +208,8 @@
     "current_date": "2020-02-29",
     "models": [
         "delphi-epicast",
-        "hist-avg"
+        "hist-avg",
+        "atsf-meanbs"
     ],
     "initial_checked_models": [
         "delphi-epicast",
@@ -216,6 +217,7 @@
     ],
     "model_urls": {
         "hist-avg": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/hist-avg.yml",
+        "atsf-meanbs": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/atsf-meanbs.yml",
         "delphi-epicast": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/delphi-epicast.yml"
     },
     "disclaimer": "This is a sandbox forecast visualization. It is not designed to support an operational hub, but instead is designed for benchmarking and research purposes.",
