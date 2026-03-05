@@ -209,7 +209,8 @@
     "models": [
         "delphi-epicast",
         "hist-avg",
-        "atsf-meanbs"
+        "atsf-meanbs",
+        "efm-NAIVEnobs"
     ],
     "initial_checked_models": [
         "delphi-epicast",
@@ -217,6 +218,7 @@
     ],
     "model_urls": {
         "hist-avg": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/hist-avg.yml",
+        "efm-NAIVEnobs": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/efm-NAIVEnobs.yml",
         "atsf-meanbs": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/atsf-meanbs.yml",
         "delphi-epicast": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/delphi-epicast.yml"
     },
