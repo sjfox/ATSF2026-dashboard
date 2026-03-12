@@ -209,6 +209,7 @@
     "models": [
         "delphi-epicast",
         "hist-avg",
+        "KReger-snaive_bc_bs",
         "atsf-meanbs",
         "efm-NAIVEnobs"
     ],
@@ -220,7 +221,8 @@
         "hist-avg": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/hist-avg.yml",
         "efm-NAIVEnobs": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/efm-NAIVEnobs.yml",
         "atsf-meanbs": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/atsf-meanbs.yml",
-        "delphi-epicast": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/delphi-epicast.yml"
+        "delphi-epicast": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/delphi-epicast.yml",
+        "KReger-snaive_bc_bs": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/KReger-snaive_bc_bs.yml"
     },
     "disclaimer": "This is a sandbox forecast visualization. It is not designed to support an operational hub, but instead is designed for benchmarking and research purposes.",
     "initial_xaxis_range": [
