@@ -214,6 +214,7 @@
         "atsf-meanbs",
         "atsf-meannonbs",
         "efm-NAIVEnobs",
+        "hcr64-rw_driftNOBS",
         "syed-snaivebs"
     ],
     "initial_checked_models": [
@@ -222,6 +223,7 @@
     ],
     "model_urls": {
         "hist-avg": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/hist-avg.yml",
+        "hcr64-rw_driftNOBS": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/hcr64-rw_driftNOBS.yml",
         "efm-NAIVEnobs": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/efm-NAIVEnobs.yml",
         "syed-snaivebs": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/syed-snaivebs.yml",
         "atsf-meanbs": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/atsf-meanbs.yml",
