@@ -222,14 +222,14 @@
         "hist-avg"
     ],
     "model_urls": {
-        "hist-avg": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/hist-avg.yml",
         "hcr64-rw_driftNOBS": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/hcr64-rw_driftNOBS.yml",
-        "efm-NAIVEnobs": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/efm-NAIVEnobs.yml",
         "syed-snaivebs": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/syed-snaivebs.yml",
-        "atsf-meanbs": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/atsf-meanbs.yml",
-        "delphi-epicast": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/delphi-epicast.yml",
         "KReger-snaive_bc_bs": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/KReger-snaive_bc_bs.yml",
+        "delphi-epicast": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/delphi-epicast.yml",
+        "atsf-meanbs": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/atsf-meanbs.yml",
+        "efm-NAIVEnobs": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/efm-NAIVEnobs.yml",
         "adk-rwdriftbs": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/adk-rwdriftbs.yml",
+        "hist-avg": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/hist-avg.yml",
         "atsf-meannonbs": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/atsf-meannonbs.yaml"
     },
     "disclaimer": "This is a sandbox forecast visualization. It is not designed to support an operational hub, but instead is designed for benchmarking and research purposes.",
