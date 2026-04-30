@@ -209,6 +209,7 @@
     "models": [
         "delphi-epicast",
         "hist-avg",
+        "KReger-bma_ensemble",
         "KReger-snaive_bc_bs",
         "adk-rwdriftbs",
         "ata266-snaivenonbs",
@@ -228,6 +229,7 @@
         "ata266-snaivenonbs": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/ata266-snaivenonbs.yml",
         "delphi-epicast": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/delphi-epicast.yml",
         "atsf-meanbs": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/atsf-meanbs.yml",
+        "KReger-bma_ensemble": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/KReger-bma_ensemble.yml",
         "KReger-snaive_bc_bs": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/KReger-snaive_bc_bs.yml",
         "hcr64-rw_driftNOBS": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/hcr64-rw_driftNOBS.yml",
         "slm854-naivebs": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/slm854-naivebs.yml",
