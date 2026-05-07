@@ -216,8 +216,12 @@
         "atsf-meanbs",
         "atsf-meannonbs",
         "efm-NAIVEnobs",
+        "efm-SARIMA",
+        "efm-mechanisticSIR",
         "hcr64-rw_driftNOBS",
         "slm854-naivebs",
+        "syed-SARIMA",
+        "syed-SIRSEnKF",
         "syed-snaivebs"
     ],
     "initial_checked_models": [
@@ -225,6 +229,7 @@
         "hist-avg"
     ],
     "model_urls": {
+        "efm-mechanisticSIR": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/efm-mechanisticSIR.yml",
         "efm-NAIVEnobs": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/efm-NAIVEnobs.yml",
         "ata266-snaivenonbs": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/ata266-snaivenonbs.yml",
         "delphi-epicast": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/delphi-epicast.yml",
@@ -234,8 +239,11 @@
         "hcr64-rw_driftNOBS": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/hcr64-rw_driftNOBS.yml",
         "slm854-naivebs": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/slm854-naivebs.yml",
         "syed-snaivebs": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/syed-snaivebs.yml",
+        "syed-SARIMA": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/syed-SARIMA.yml",
         "hist-avg": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/hist-avg.yml",
         "adk-rwdriftbs": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/adk-rwdriftbs.yml",
+        "efm-SARIMA": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/efm-SARIMA.yml",
+        "syed-SIRSEnKF": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/syed-SIRSEnKF.yml",
         "atsf-meannonbs": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/atsf-meannonbs.yaml"
     },
     "disclaimer": "This is a sandbox forecast visualization. It is not designed to support an operational hub, but instead is designed for benchmarking and research purposes.",
