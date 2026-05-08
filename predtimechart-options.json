@@ -212,6 +212,7 @@
         "KReger-bma_ensemble",
         "KReger-snaive_bc_bs",
         "adk-rwdriftbs",
+        "adk-stletsbc",
         "ata266-sarima",
         "ata266-snaivenonbs",
         "atsf-meanbs",
@@ -251,6 +252,7 @@
         "efm-SARIMA": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/efm-SARIMA.yml",
         "syed-SIRSEnKF": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/syed-SIRSEnKF.yml",
         "hcr64-rw_drift_ENS_S": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/hcr64-rw_drift_ENS_S.yml",
+        "adk-stletsbc": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/adk-stletsbc.yaml",
         "atsf-meannonbs": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/atsf-meannonbs.yaml",
         "atsf-rf": "https://github.com/sjfox/ATSF2026-hub/blob/main/model-metadata/atsf-rf.yaml"
     },
